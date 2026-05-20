@@ -23,9 +23,9 @@ An end-to-end Data Analysis project on the Marvel Cinematic Universe Box Office 
 
 ## Project Workflow
 
-|Web Scraping (Wikipedia)|
-↓
-|Raw CSV Data|
+| Web Scraping (Wikipedia) |
+| ↓ |
+| Raw CSV Data |
 ↓
 Google Sheets → Data Cleaning + Pivot Tables + Charts
 ↓
