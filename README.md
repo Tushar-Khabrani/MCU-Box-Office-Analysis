@@ -13,7 +13,6 @@
 An end-to-end Data Analysis project on the Marvel Cinematic Universe Box Office performance, covering **38 films** across **6 Phases** from **2008 to 2025**. Data was web scraped from Wikipedia and analyzed using industry-standard tools including Python, MySQL, Google Sheets, and Power BI.
 
 ---
----
 
 ## What Makes This Project Unique
 
