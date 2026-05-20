@@ -17,7 +17,7 @@ An end-to-end Data Analysis project on the Marvel Cinematic Universe Box Office 
 ## Dashboard Preview
 
 ![Dashboard](graphs/dashboard_preview.png)
----
+
 
 ---
 
