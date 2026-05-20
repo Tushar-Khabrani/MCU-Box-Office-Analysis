@@ -23,19 +23,21 @@ An end-to-end Data Analysis project on the Marvel Cinematic Universe Box Office 
 
 ## Project Workflow
 
-| Web Scraping (Wikipedia) |
-| ↓ |
-| Raw CSV Data |
-↓
+```
+Web Scraping (Wikipedia)
+        ↓
+   Raw CSV Data
+        ↓
 Google Sheets → Data Cleaning + Pivot Tables + Charts
-↓
+        ↓
 MySQL → Advanced SQL Queries + Views + Stored Procedures
-↓
+        ↓
 Python → EDA + Data Visualization (12 Charts)
-↓
+        ↓
 ETL Pipeline → Automated Data Flow
-↓
+        ↓
 Power BI → Interactive Marvel-Themed Dashboard
+```
 
 ---
 
